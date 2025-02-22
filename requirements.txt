@@ -1,0 +1,4 @@
+crewai
+crewai[Tools]
+langchain_community
+langchain_openai
